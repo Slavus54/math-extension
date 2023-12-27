@@ -1,0 +1,11 @@
+{
+    "name": "Arithmetic in Chrome",
+    "version": "1.0.0",
+    "description": "This extension for students to training in math",
+    "author": "Slavus54",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Arithmetic in Chrome"
+    }
+}
